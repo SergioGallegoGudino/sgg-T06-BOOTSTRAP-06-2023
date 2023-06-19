@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(238, 238, 238);
+}
+
+body{
+    background-color: transparent;
+}
+
+.c-1{
+    height: 15vh;
+    color: rgb(92, 92, 240);
+}
+
+.c-2{
+    height: 80vh;
+}
+
+span{
+    color: rgb(92, 92, 240);
+    font-size: 60px !important;
+}
+
+textarea{
+    height: 20vh;
+}
