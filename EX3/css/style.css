@@ -1,3 +1,36 @@
-nav{
-    background-color: blue !important;
+.nav-color{
+    background-color: rgb(81, 166, 231) !important;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+a{
+    color: white !important;
+}
+
+html{
+    background-color: rgb(237, 237, 237) !important;
+}
+
+body{
+    background-color: transparent !important;
+}
+
+.head-right{
+    text-align: right !important;
+}
+
+/* Estilos del nav */
+
+img{
+    width: 150px;
+}
+
+.menu-icon{
+    width: 30px;
+}
+
+.nav-white{
+    background-color: white;
+    color: rgb(44, 44, 44) !important;
 }
