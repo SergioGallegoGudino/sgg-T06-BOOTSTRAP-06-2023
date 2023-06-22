@@ -1,0 +1,65 @@
+
+/* Estilos del titulo */
+
+
+h1{
+    color: rgb(57, 126, 255);
+}
+/* Estilos de la cabecera */
+
+.dimension{
+    width: 100px;
+}
+
+/* Estilos de la tabla */
+
+table{
+    table-layout: fixed;
+}
+
+.icon, .icon span{
+    width: 30px;
+    height: 30px;
+}
+
+.eye{
+    background-image: url("../img/eye.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.write{
+    background-image: url("../img/write.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.delete{
+    background-image: url("../img/delete.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+td{
+    height: 10vh;
+    padding-top: 15px !important;
+}
+
+/* Estilos del pie */
+
+.c-black{
+    text-decoration: none;
+    color: rgb(130, 130, 130);
+}
+
+.bg-blue{
+    background-color: rgb(57, 126, 255) !important;
+    color: white;
+}
+
+nav{
+    table-layout: fixed;
+}
